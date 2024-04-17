@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning MySQL,PowerBI,Excel
 - 📫 How to reach me siamity3193@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:Despite my background in mechanical engineering and a stint in government job preparation, I found my true calling in data analytics!
--   Turns out, my passion for uncovering patterns and solving puzzles led me straight to the world of data analysis,
+- ⚡ Fun fact:Despite my background in mechanical engineering and a stint in government job preparation, I found my true calling in data analytics!Turns out, my passion for uncovering patterns and solving puzzles led me straight to the world of data analysis,
 
 <!---
 Sidsharma11/Sidsharma11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
